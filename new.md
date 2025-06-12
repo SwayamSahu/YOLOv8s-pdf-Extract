@@ -1,6 +1,8 @@
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 =======================================================================
+https://excalidraw.com/#json=qUUNZvD_rtgLSE4c8DCfW,ksA4SQP3VmKEokfV0-M3Dw
+
 https://github.com/iamvaibhavmehra/LangGraph-Course-freeCodeCamp
 
 https://excalidraw.com/#json=o0lO3SCPU29PeZfnojB_G,URFnEASM07SWMyDEbk7yCg
