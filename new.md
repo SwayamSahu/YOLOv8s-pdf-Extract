@@ -1,3 +1,7 @@
+https://excalidraw.com/#json=hLWChg6eSVnZBoKW7ySu7,NoyGVbmwWe4RB6CubecDBw
+
+====================================
+
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 =======================================================================
